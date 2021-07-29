@@ -1,0 +1,417 @@
+Version 1 11
+{
+    IsStream False
+    DescriptorsInOrder False
+    Entries
+    {
+    WaveTrack pd_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\pd_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack pd_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\pd_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack pd_sec
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\pd_sec.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack pd_horn
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\pd_horn.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fd_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fd_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fd_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fd_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fd_sec
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fd_sec.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fd_horn
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fd_horn.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack ambu_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\ambu_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack ambu_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\ambu_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack ambu_sec
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\ambu_sec.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack ambu_horn
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\ambu_horn.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fib_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fib_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fib_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fib_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fib_sec
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fib_sec.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack fib_horn
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\fib_horn.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack swat_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\swat_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack swat_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\swat_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack swat_sec
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\swat_sec.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack swat_horn
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\swat_horn.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack so_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\so_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack so_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\so_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack so_sec
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\so_sec.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    WaveTrack so_horn
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+
+            Wave custom_sirens\so_horn.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+    }
+	
+}
